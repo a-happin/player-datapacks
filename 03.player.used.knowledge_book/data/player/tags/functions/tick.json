@@ -1,0 +1,5 @@
+{
+  "values": [
+    "player.used.knowledge_book:handler/tick"
+  ]
+}
