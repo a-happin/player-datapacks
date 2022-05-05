@@ -1,0 +1,10 @@
+{
+  "criteria": {
+    "": {
+      "trigger": "consume_item"
+    }
+  },
+  "rewards": {
+    "function": "player.consume_item:handler/consume_item"
+  }
+}

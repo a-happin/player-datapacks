@@ -1,0 +1,6 @@
+{
+  "values": [
+    "player.consume_item:handler/stopped_using_consumables",
+    {"id": "#player:stopped_using_consumables", "required": false}
+  ]
+}
