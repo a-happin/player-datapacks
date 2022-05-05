@@ -3,8 +3,6 @@ player.flying_with_elytra
 
 ## Features
 
-- Define `tag/function` to register event handlers
-
 ### Event Handlers
 
 |tag/function|description|

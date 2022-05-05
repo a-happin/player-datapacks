@@ -3,8 +3,6 @@ player.used.bow
 
 ## Features
 
-- Define `tag/function` to register event handlers
-
 ### Event Handlers
 
 |tag/function|description|
@@ -13,6 +11,12 @@ player.used.bow
 |`#player:stopped_using_bow`|called when a player stops using bow<br>(i.e., called at the next tick after the last `advancement using_item(bow)` triggers)|
 |`#player:used.bow`|called at the next tick after `scoreboard used:bow` increased|
 |`#player:using_bow`|called when `advancement using_item(bow)` triggers|
+
+### Scores
+
+|objective|description|
+|:--|:--|
+|`player.time.using_bow`|The time spent using_bow (tick)|
 
 ## Usage
 

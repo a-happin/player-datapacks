@@ -3,8 +3,6 @@ player.dropped
 
 ## Features
 
-- Define `tag/function` to register event handlers
-
 ### Event Handlers
 
 |tag/function|description|

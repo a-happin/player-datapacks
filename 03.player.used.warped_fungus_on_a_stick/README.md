@@ -3,8 +3,6 @@ player.used.warped_fungus_on_a_stick
 
 ## Features
 
-- Define `tag/function` to register event handlers
-
 ### Event Handlers
 
 |tag/function|description|

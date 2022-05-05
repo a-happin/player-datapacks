@@ -3,13 +3,13 @@ player.tick
 
 ## Features
 
-Define following tags for registering player tick handlers
+### Event Handlers
 
-- `tag/function #player:early_tick`
-- `tag/function #player:tick`
-- `tag/function #player:late_tick/N`
-  - requires `0 <= N <= 99`
-  - The smaller `N` is, the later it will be called.
+|tag/function|description|
+|:--|:--|
+|`#player:early_tick`|called every tick before `#player:tick`|
+|`#player:tick`|called every tick|
+|`#player:late_tick/<order>`|called every tick after `#player:tick`<br>The smaller `<order>` is, the later it will be called<br>- requires `0` <= `<order>` <= `99`|
 
 ## Usage
 

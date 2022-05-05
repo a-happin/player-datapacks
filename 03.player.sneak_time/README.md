@@ -3,8 +3,6 @@ player.sneak_time
 
 ## Features
 
-- Define `tag/function` to register event handlers
-
 ### Event Handlers
 
 |tag/function|description|

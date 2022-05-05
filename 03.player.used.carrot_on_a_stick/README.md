@@ -1,9 +1,7 @@
-datapack-template
+player.used.carrot_on_a_stick
 ==
 
 ## Features
-
-- Define `tag/function` to register event handlers
 
 ### Event Handlers
 
