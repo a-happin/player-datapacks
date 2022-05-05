@@ -1,0 +1,7 @@
+{
+  "condition": "entity_scores",
+  "entity": "this",
+  "scores": {
+    "player.is_on_ground": 1
+  }
+}
