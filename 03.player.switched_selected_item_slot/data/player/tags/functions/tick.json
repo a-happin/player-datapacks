@@ -1,0 +1,5 @@
+{
+  "values": [
+    "player.switched_selected_item_slot:handler/tick"
+  ]
+}

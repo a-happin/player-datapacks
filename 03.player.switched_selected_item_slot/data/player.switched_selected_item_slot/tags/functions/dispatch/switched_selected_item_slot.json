@@ -1,0 +1,6 @@
+{
+  "values": [
+    "player.switched_selected_item_slot:handler/switched_selected_item_slot",
+    {"id": "#player:switched_selected_item_slot", "required": false}
+  ]
+}
