@@ -1,0 +1,6 @@
+{
+  "values": [
+    "player.used.shield:handler/stopped_using_shield",
+    {"id": "#player:stopped_using_shield", "required": false}
+  ]
+}

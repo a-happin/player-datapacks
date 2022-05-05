@@ -1,0 +1,17 @@
+{
+  "criteria": {
+    "": {
+      "trigger": "using_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "shield"
+          ]
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "player.used.shield:handler/using_shield"
+  }
+}

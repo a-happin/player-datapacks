@@ -1,0 +1,5 @@
+{
+  "values": [
+    {"id": "#player:used.shield", "required": false}
+  ]
+}

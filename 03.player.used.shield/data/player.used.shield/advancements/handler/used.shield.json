@@ -1,0 +1,15 @@
+{
+  "criteria": {
+    "": {
+      "trigger": "entity_hurt_player",
+      "conditions": {
+        "damage": {
+          "blocked": true
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "player.used.shield:handler/used.shield"
+  }
+}
