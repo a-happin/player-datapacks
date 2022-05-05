@@ -1,0 +1,6 @@
+{
+  "values": [
+    "player.dropped:handler/dropped",
+    {"id": "#player:dropped", "required": false}
+  ]
+}
