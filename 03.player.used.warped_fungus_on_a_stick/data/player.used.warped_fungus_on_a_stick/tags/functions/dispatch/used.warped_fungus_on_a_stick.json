@@ -1,6 +1,7 @@
 {
   "values": [
-    "player.used.warped_fungus_on_a_stick:handler/used.warped_fungus_on_a_stick",
-    {"id": "#player:used.warped_fungus_on_a_stick", "required": false}
+    "player.used.warped_fungus_on_a_stick:handler/used.warped_fungus_on_a_stick/0",
+    {"id": "#player:used.warped_fungus_on_a_stick", "required": false},
+    "player.used.warped_fungus_on_a_stick:handler/used.warped_fungus_on_a_stick/1"
   ]
 }
