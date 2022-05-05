@@ -1,0 +1,10 @@
+{
+  "criteria": {
+    "": {
+      "trigger": "inventory_changed"
+    }
+  },
+  "rewards": {
+    "function": "player.sum_id:handler/inventory_changed"
+  }
+}
