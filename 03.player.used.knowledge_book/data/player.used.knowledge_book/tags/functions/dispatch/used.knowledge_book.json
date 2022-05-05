@@ -1,6 +1,7 @@
 {
   "values": [
-    "player.used.knowledge_book:handler/used.knowledge_book",
-    {"id": "#player:used.knowledge_book", "required": false}
+    "player.used.knowledge_book:handler/used.knowledge_book/0",
+    {"id": "#player:used.knowledge_book", "required": false},
+    "player.used.knowledge_book:handler/used.knowledge_book/1"
   ]
 }
