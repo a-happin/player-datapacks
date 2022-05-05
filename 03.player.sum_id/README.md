@@ -16,7 +16,7 @@ player.sum_id
 
 |Score|description|
 |:--|:--|
-|`@s player.sum_id`|the sum of `tag.id` of the hotbar and offhand (and +1)|
+|`@s player.sum_id`|the sum of `tag.id` of the hotbar and offhand + 1|
 
 ## Usage
 
