@@ -11,7 +11,7 @@ player.consume_item
 
 |tag/function|description|
 |:--|:--|
-|`#player:consume_item`|called at the next tick after `scoreboard used:consumables` increased|
+|`#player:consume_item`|called when `advancement consume_item` triggers|
 |`#player:started_using_consumables`|called when a player starts using consumables<br>(i.e., called when the first `advancement using_item(consumables)` triggers)|
 |`#player:stopped_using_consumables`|called when a player stops using consumables<br>(i.e., called at the next tick after the last `advancement using_item(consumables)` triggers)|
 |`#player:using_consumables`|called when `advancement using_item(consumables)` triggers|
