@@ -1,0 +1,6 @@
+{
+  "values": [
+    "player.jumped:handler/jumped",
+    {"id": "#player:jumped", "required": false}
+  ]
+}
