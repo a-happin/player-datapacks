@@ -1,0 +1,5 @@
+{
+  "values": [
+    {"id": "#player:used_totem", "required": false}
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "criteria": {
+    "": {
+      "trigger": "started_riding"
+    }
+  },
+  "rewards": {
+    "function": "player.advancement:handler/started_riding"
+  }
+}

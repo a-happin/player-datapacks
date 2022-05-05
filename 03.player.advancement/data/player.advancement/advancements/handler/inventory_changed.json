@@ -1,0 +1,10 @@
+{
+  "criteria": {
+    "": {
+      "trigger": "inventory_changed"
+    }
+  },
+  "rewards": {
+    "function": "player.advancement:handler/inventory_changed"
+  }
+}
