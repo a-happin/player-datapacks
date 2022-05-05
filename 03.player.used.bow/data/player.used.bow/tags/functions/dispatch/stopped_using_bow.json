@@ -1,0 +1,6 @@
+{
+  "values": [
+    "player.used.bow:handler/stopped_using_bow",
+    {"id": "#player:stopped_using_bow", "required": false}
+  ]
+}

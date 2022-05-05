@@ -1,0 +1,5 @@
+{
+  "values": [
+    {"id": "#player:using_bow", "required": false}
+  ]
+}

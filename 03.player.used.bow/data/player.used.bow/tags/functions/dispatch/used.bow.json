@@ -1,0 +1,6 @@
+{
+  "values": [
+    "player.used.bow:handler/used.bow",
+    {"id": "#player:used.bow", "required": false}
+  ]
+}

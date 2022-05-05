@@ -1,0 +1,17 @@
+{
+  "criteria": {
+    "": {
+      "trigger": "using_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "bow"
+          ]
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "player.used.bow:handler/using_bow"
+  }
+}
