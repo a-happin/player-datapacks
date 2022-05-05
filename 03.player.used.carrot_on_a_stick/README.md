@@ -9,6 +9,12 @@ player.used.carrot_on_a_stick
 |:--|:--|
 |`#player:used.carrot_on_a_stick`|called at the next tick after `scoreboard used:carrot_on_a_stick` increased|
 
+### Storage
+
+|storage|description|
+|:--|:--|
+|`storage : _[-1].UsedItem`|available in `tag/function #player.used.carrot_on_a_stick`|
+
 ## Usage
 
 call `tag/function #minecraft:load_once` once
