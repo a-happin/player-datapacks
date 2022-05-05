@@ -1,0 +1,5 @@
+{
+  "values": [
+    {"id": "#player:started_using_item", "required": false}
+  ]
+}
