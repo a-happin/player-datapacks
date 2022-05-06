@@ -9,6 +9,12 @@ player_data
 |:--|:--|
 |`player_data:at/`|get storage for `@s`|
 
+### Storage
+
+|storage|description|
+|:--|:--|
+|`storage player_data: _[-2][-2][-2][-2][-2][-2][-2][-2][-2][-2][-2][-2][-2][-2][-2][-2]`|storage for `@s`|
+
 ## Usage
 
 call `tag/function #minecraft:load_once` once
