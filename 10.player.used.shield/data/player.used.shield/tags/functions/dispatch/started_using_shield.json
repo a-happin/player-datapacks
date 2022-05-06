@@ -1,5 +1,6 @@
 {
   "values": [
+    "player.used.shield:handler/started_using_shield",
     {"id": "#player:started_using_shield", "required": false}
   ]
 }

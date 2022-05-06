@@ -18,6 +18,12 @@ player.used.shield
 |:--|:--|
 |`player.time.using_shield`|The time spent using_shield (tick)|
 
+### Storage
+
+|storage|description|
+|:--|:--|
+|`storage player_data: _[-2][-2][-2][-2][-2][-2][-2][-2][-2][-2][-2][-2][-2][-2][-2][-2].UsedItem`|used(using) shield<br>available in `#player:started_using_shield`, `#player:using_shield`, `#player:used.shield`|
+
 ## Usage
 
 call `tag/function #minecraft:load_once` once
@@ -26,6 +32,7 @@ call `tag/function #minecraft:load_once` once
 
 - Minecraft JE 1.18.2
 - [player.tick](https://github.com/a-happin/player-datapacks/tree/master/01.player.tick)
+- [player_data](https://github.com/a-happin/player-datapacks/tree/master/01.player_data)
 
 ## Installation
 
