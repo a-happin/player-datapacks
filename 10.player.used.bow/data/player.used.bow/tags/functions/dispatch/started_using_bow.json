@@ -1,5 +1,6 @@
 {
   "values": [
+    "player.used.bow:handler/started_using_bow",
     {"id": "#player:started_using_bow", "required": false}
   ]
 }

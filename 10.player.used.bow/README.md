@@ -18,6 +18,12 @@ player.used.bow
 |:--|:--|
 |`player.time.using_bow`|The time spent using_bow (tick)|
 
+### Storage
+
+|storage|description|
+|:--|:--|
+|`storage player_data: _[-2][-2][-2][-2][-2][-2][-2][-2][-2][-2][-2][-2][-2][-2][-2][-2].UsedItem`|used(using) bow<br>available in `#player:started_using_bow`, `#player:using_bow`, `#player:used.bow`|
+
 ## Usage
 
 call `tag/function #minecraft:load_once` once
@@ -26,6 +32,7 @@ call `tag/function #minecraft:load_once` once
 
 - Minecraft JE 1.18.2
 - [player.tick](https://github.com/a-happin/player-datapacks/tree/master/01.player.tick)
+- [player_data](https://github.com/a-happin/player-datapacks/tree/master/01.player_data)
 
 ## Installation
 

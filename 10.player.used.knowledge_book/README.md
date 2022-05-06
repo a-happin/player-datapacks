@@ -13,7 +13,7 @@ player.used.knowledge_book
 
 |score|description|
 |:--|:--|
-|`score @s player.used.knowledge_book`|the value of `tag.id` of used item<br>available in `tag/function #player.used.knowledge_book`|
+|`score @s player.used.knowledge_book`|the value of `tag.id` of used item<br>available in `#player.used.knowledge_book`|
 
 ## Usage
 

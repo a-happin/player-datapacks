@@ -13,7 +13,7 @@ player.used.warped_fungus_on_a_stick
 
 |storage|description|
 |:--|:--|
-|`storage : _[-1].UsedItem`|available in `tag/function #player.used.warped_fungus_on_a_stick`|
+|`storage : _[-1].UsedItem`|available in `#player.used.warped_fungus_on_a_stick`|
 
 ## Usage
 
