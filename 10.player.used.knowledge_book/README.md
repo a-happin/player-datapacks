@@ -23,7 +23,6 @@ call `tag/function #minecraft:load_once` once
 
 - Minecraft JE 1.18.2
 - [player.tick](https://github.com/a-happin/player-datapacks/tree/master/01.player.tick)
-- [player.sum_id](https://github.com/a-happin/player-datapacks/tree/master/10.player.sum_id)
 
 ## Installation
 

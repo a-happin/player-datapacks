@@ -1,7 +1,7 @@
 {
   "values": [
     "player.used.knowledge_book:calc_used_id/0",
-    "player.sum_id:calc_sum_id/",
+    "player.used.knowledge_book:calc_sum_id/",
     "player.used.knowledge_book:calc_used_id/1"
   ]
 }

@@ -1,0 +1,19 @@
+{
+  "criteria": {
+    "": {
+      "trigger": "inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "knowledge_book"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "function": "player.used.knowledge_book:handler/inventory_changed"
+  }
+}
