@@ -28,7 +28,7 @@ call `tag/function #minecraft:load_once` once
 
 ## Requirement
 
-- Minecraft JE 1.18.2
+- Minecraft JE 1.19
 - [player.tick](https://github.com/a-happin/player-datapacks/tree/master/01.player.tick)
 
 ## Installation

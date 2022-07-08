@@ -15,7 +15,7 @@ player.tick
 
 ## Requirement
 
-- Minecraft JE 1.18.2
+- Minecraft JE 1.19
 
 ## Installation
 
