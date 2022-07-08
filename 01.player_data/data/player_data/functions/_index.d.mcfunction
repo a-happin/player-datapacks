@@ -9,4 +9,3 @@
 #>
 #@public
   #declare storage player_data:
-  #declare score_holder $prev_index
