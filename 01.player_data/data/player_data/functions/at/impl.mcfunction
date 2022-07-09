@@ -9,14 +9,13 @@
 #  score $prev_index player_data
 
 scoreboard players operation $prev_index player_data = @s player_data
-scoreboard players set $ player_data 65536
-scoreboard players operation $ player_data *= $prev_index player_data
 
 execute unless data storage player_data: _[0] run data modify storage player_data: _ set value [[],[]]
-execute if score $ player_data matches 0.. if data storage player_data: _[2] run data remove storage player_data: _[2]
-execute unless score $ player_data matches 0.. unless data storage player_data: _[2] run data modify storage player_data: _ append value []
+execute if score @s player_data matches 0.. if data storage player_data: _[2] run data remove storage player_data: _[2]
+execute unless score @s player_data matches 0.. unless data storage player_data: _[2] run data modify storage player_data: _ append value []
 
-scoreboard players operation $ player_data += $ player_data
+scoreboard players set $ player_data 131072
+scoreboard players operation $ player_data *= @s player_data
 execute unless data storage player_data: _[-2][0] run data modify storage player_data: _[-2] set value [[],[]]
 execute if score $ player_data matches 0.. if data storage player_data: _[-2][2] run data remove storage player_data: _[-2][2]
 execute unless score $ player_data matches 0.. unless data storage player_data: _[-2][2] run data modify storage player_data: _[-2] append value []
