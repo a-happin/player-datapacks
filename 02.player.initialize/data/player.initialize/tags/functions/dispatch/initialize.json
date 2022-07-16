@@ -1,5 +1,6 @@
 {
   "values": [
+    "player.initialize:handler/initialize",
     {"id": "#player:initialize", "required": false},
     {"id": "#player:logined", "required": false},
     {"id": "#player:spawned", "required": false}
