@@ -1,5 +1,5 @@
 #> player_data:at/impl
-#@public
+#@within function player_data:at/
 #@input
 #  storage player_data: _ List-Mapped Trie
 #  score @s player_data (0 <= index < 65536)
