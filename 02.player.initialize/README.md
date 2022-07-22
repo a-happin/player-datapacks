@@ -18,7 +18,13 @@ player.initialize
 
 |objective|description|
 |:--|:--|
-|player.deaths|test if `@s` is dead. Available in your `advancement entity_hurt_player`|
+|player.is_dead|test if `@s` is dead. Available in your `advancement entity_hurt_player`|
+
+### Predicates
+
+|objective|description|
+|:--|:--|
+|player:is_dead|test if `@s` is dead. Available in your `advancement entity_hurt_player`|
 
 ## Usage
 
