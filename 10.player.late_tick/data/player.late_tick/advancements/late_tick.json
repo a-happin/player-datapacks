@@ -1,0 +1,10 @@
+{
+  "criteria": {
+    "": {
+      "trigger": "tick"
+    }
+  },
+  "rewards": {
+    "function": "player.late_tick:late_tick"
+  }
+}
