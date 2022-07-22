@@ -1,4 +1,4 @@
-player.jumped
+player.used.snowball
 ==
 
 ## Features
@@ -7,7 +7,7 @@ player.jumped
 
 |tag/function|description|
 |:--|:--|
-|`#player:jumped`|called at the next tick after `scoreboard custom:jump` increased|
+|`#player:used.snowball`|called at the next tick after `scoreboard used:snowball` increased|
 
 ## Usage
 
@@ -16,7 +16,7 @@ call `tag/function #minecraft:load_once` once
 ## Requirement
 
 - Minecraft JE 1.19
-- [player.tick](https://github.com/a-happin/player-datapacks/tree/master/01.player.tick)
+- [player.tick](https://github.com/a-happin/player-datapacks/tree/master/10.player.tick)
 
 ## Installation
 
