@@ -1,5 +1,4 @@
 #> player.landed:handler/landed
-#@within advancement player.landed:handler/landed
+#@within tag/function player.landed:dispatch/landed
 
-advancement revoke @s only player.landed:handler/left_ground
-function #player.landed:dispatch/landed
+advancement grant @s only player.landed:is_on_ground

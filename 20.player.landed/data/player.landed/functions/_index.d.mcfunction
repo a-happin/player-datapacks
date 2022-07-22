@@ -3,4 +3,4 @@
 
 #>
 #@within predicate player:is_on_ground
-  #declare advancement player.landed:handler/landed
+  #declare advancement player.landed:is_on_ground

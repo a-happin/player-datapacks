@@ -5,7 +5,7 @@
     "type_specific": {
       "type": "player",
       "advancements": {
-        "player.landed:handler/landed": true
+        "player.landed:is_on_ground": true
       }
     }
   }

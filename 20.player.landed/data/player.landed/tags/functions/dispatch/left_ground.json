@@ -1,5 +1,6 @@
 {
   "values": [
+    "player.landed:handler/left_ground",
     {"id": "#player:left_ground", "required": false}
   ]
 }
