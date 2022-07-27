@@ -7,7 +7,7 @@ player.initialize
 
 |tag/function|description|
 |:--|:--|
-|`#player:died`|called when a player dies<br>(i.e., called when `advancement entity_hurt_player` triggers and `scoreboard custom:deaths` increases)|
+|`#player:died`|called when a player dies<br>(i.e., called when `advancement entity_hurt_player` triggers and `scoreboard deathCount` increases)|
 |`#player:initialize`|called when a player logins for the first time|
 |`#player:logined`|called when a player logins|
 |`#player:relogined`|called when a player logins for the second or later time|

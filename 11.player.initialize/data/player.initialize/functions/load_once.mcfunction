@@ -8,4 +8,4 @@
 
 #>
 #@public
-  scoreboard objectives add player.is_dead custom:deaths
+  scoreboard objectives add player.is_dead deathCount
