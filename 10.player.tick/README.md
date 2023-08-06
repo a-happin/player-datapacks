@@ -13,7 +13,7 @@ player.tick
 
 ## Requirement
 
-- Minecraft JE 1.19
+- Minecraft JE 1.19+
 
 ## Installation
 
